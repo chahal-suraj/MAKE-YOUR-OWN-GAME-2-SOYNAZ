@@ -1,1 +1,2 @@
-# MAKE-YOUR-OWN-GAME-2-SOYNAZ
+# p5.play-boilerplate
+Boiler plate for p5.play
